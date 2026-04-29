@@ -1,0 +1,1 @@
+.playlists{background:#000;padding:clamp(150px,calc(150px + 650 * ((100vw - 1440px) / 6240)),800px) 0}.playlists>.container{display:flex;flex-direction:column;gap:clamp(50px,calc(50px + 216.6667 * ((100vw - 1440px) / 6240)),266.6667px);min-height:clamp(234px,calc(234px + .1625*(100vw - 1440px)),1248px)}@media(max-width:576px){.playlists>.container{min-height:216px}}

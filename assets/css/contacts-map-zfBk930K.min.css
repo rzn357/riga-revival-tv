@@ -1,0 +1,1 @@
+.contacts-map #contacts-map{aspect-ratio:8/2}@media(max-width:1600px){.contacts-map #contacts-map{aspect-ratio:auto;height:500px}}@media(max-width:768px){.contacts-map #contacts-map{aspect-ratio:auto;height:400px}}

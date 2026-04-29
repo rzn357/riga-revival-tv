@@ -1,0 +1,21 @@
+{
+    "responsiveLayout ": {
+        "fluid": {
+            "enabled": true,
+            "viewport": {
+                "width": {
+                    "min": "1440px",
+                    "max": "7680px"
+                }
+            }
+        }
+    },
+    "css": {
+        "body": {
+            "font-size": "14px"
+        },
+        ".container": {
+            "max-width": "1200px"
+        }
+    }
+}

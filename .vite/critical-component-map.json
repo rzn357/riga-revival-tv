@@ -1,0 +1,169 @@
+{
+  "homepage": {
+    "js": [],
+    "scss": [
+      "hero-banner-one"
+    ],
+    "scriptPaths": [],
+    "stylePaths": [
+      "src/sass/components/hero-banner-one.scss",
+      "src/sass/core/base.scss",
+      "src/sass/layouts/footer.scss",
+      "src/sass/layouts/header.scss",
+      "src/sass/layouts/socials.scss",
+      "src/sass/pages/homepage.scss"
+    ]
+  },
+  "watch-live": {
+    "js": [],
+    "scss": [],
+    "scriptPaths": [],
+    "stylePaths": [
+      "src/sass/core/base.scss",
+      "src/sass/layouts/footer.scss",
+      "src/sass/layouts/header.scss",
+      "src/sass/layouts/socials.scss",
+      "src/sass/pages/watch-live.scss"
+    ]
+  },
+  "videos": {
+    "js": [
+      "video-section"
+    ],
+    "scss": [
+      "video-section"
+    ],
+    "scriptPaths": [
+      "src/js/components/video-section.js"
+    ],
+    "stylePaths": [
+      "src/sass/components/video-section.scss",
+      "src/sass/core/base.scss",
+      "src/sass/layouts/footer.scss",
+      "src/sass/layouts/header.scss",
+      "src/sass/layouts/socials.scss",
+      "src/sass/pages/videos.scss"
+    ]
+  },
+  "videos-program": {
+    "js": [
+      "program-banner"
+    ],
+    "scss": [
+      "program-banner",
+      "back-button",
+      "playlists"
+    ],
+    "scriptPaths": [
+      "src/js/components/program-banner.js"
+    ],
+    "stylePaths": [
+      "src/sass/components/back-button.scss",
+      "src/sass/components/playlists.scss",
+      "src/sass/components/program-banner.scss",
+      "src/sass/core/base.scss",
+      "src/sass/layouts/footer.scss",
+      "src/sass/layouts/header.scss",
+      "src/sass/layouts/socials.scss",
+      "src/sass/pages/videos-program.scss"
+    ]
+  },
+  "videos-single": {
+    "js": [],
+    "scss": [
+      "back-button"
+    ],
+    "scriptPaths": [],
+    "stylePaths": [
+      "src/sass/components/back-button.scss",
+      "src/sass/core/base.scss",
+      "src/sass/layouts/footer.scss",
+      "src/sass/layouts/header.scss",
+      "src/sass/layouts/socials.scss",
+      "src/sass/pages/videos-single.scss"
+    ]
+  },
+  "about-us": {
+    "js": [],
+    "scss": [
+      "about-company"
+    ],
+    "scriptPaths": [],
+    "stylePaths": [
+      "src/sass/components/about-company.scss",
+      "src/sass/core/base.scss",
+      "src/sass/layouts/footer.scss",
+      "src/sass/layouts/header.scss",
+      "src/sass/layouts/socials.scss",
+      "src/sass/pages/about-us.scss"
+    ]
+  },
+  "contacts": {
+    "js": [],
+    "scss": [
+      "hero-banner-one",
+      "features"
+    ],
+    "scriptPaths": [],
+    "stylePaths": [
+      "src/sass/components/features.scss",
+      "src/sass/components/hero-banner-one.scss",
+      "src/sass/core/base.scss",
+      "src/sass/layouts/footer.scss",
+      "src/sass/layouts/header.scss",
+      "src/sass/layouts/socials.scss",
+      "src/sass/pages/contacts.scss"
+    ]
+  },
+  "donate": {
+    "js": [],
+    "scss": [
+      "hero-banner-donate"
+    ],
+    "scriptPaths": [],
+    "stylePaths": [
+      "src/sass/components/hero-banner-donate.scss",
+      "src/sass/core/base.scss",
+      "src/sass/layouts/footer.scss",
+      "src/sass/layouts/header.scss",
+      "src/sass/layouts/socials.scss"
+    ]
+  },
+  "page": {
+    "js": [],
+    "scss": [],
+    "scriptPaths": [],
+    "stylePaths": [
+      "src/sass/core/base.scss",
+      "src/sass/layouts/footer.scss",
+      "src/sass/layouts/header.scss",
+      "src/sass/layouts/socials.scss",
+      "src/sass/pages/page-template-default.scss"
+    ]
+  },
+  "single": {
+    "js": [],
+    "scss": [],
+    "scriptPaths": [],
+    "stylePaths": [
+      "src/sass/core/base.scss",
+      "src/sass/layouts/footer.scss",
+      "src/sass/layouts/header.scss",
+      "src/sass/layouts/socials.scss",
+      "src/sass/pages/page-template-default.scss",
+      "src/sass/pages/single.scss"
+    ]
+  },
+  "archive": {
+    "js": [],
+    "scss": [],
+    "scriptPaths": [],
+    "stylePaths": [
+      "src/sass/core/base.scss",
+      "src/sass/layouts/footer.scss",
+      "src/sass/layouts/header.scss",
+      "src/sass/layouts/socials.scss",
+      "src/sass/pages/archive.scss"
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+.video-tutorial{padding:clamp(100px,calc(100px + 433.3333 * ((100vw - 1440px) / 6240)),533.3333px) 0}@media(max-width:576px){.video-tutorial{padding:50px 0}}.video-tutorial__container{display:flex;justify-content:center;align-items:center}.video-tutorial__video{width:100%;max-width:clamp(700px,calc(700px + 3033.3333 * ((100vw - 1440px) / 6240)),3733.3333px)}

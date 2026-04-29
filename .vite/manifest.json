@@ -1,0 +1,385 @@
+{
+  "_splide-_I_EhH_W.min.css": {
+    "file": "assets/css/splide-_I_EhH_W.min.css",
+    "src": "_splide-_I_EhH_W.min.css"
+  },
+  "_splide.min-BZlm7KbS.min.js": {
+    "file": "assets/js/splide.min-BZlm7KbS.min.js",
+    "name": "splide.min",
+    "css": [
+      "assets/css/splide-_I_EhH_W.min.css"
+    ]
+  },
+  "src/fonts/cinzel/cinzel-latin-ext.woff2": {
+    "file": "assets/fonts/cinzel-latin-ext-CG36JvV6.woff2",
+    "src": "src/fonts/cinzel/cinzel-latin-ext.woff2"
+  },
+  "src/fonts/cinzel/cinzel-latin.woff2": {
+    "file": "assets/fonts/cinzel-latin-DMUuCU8H.woff2",
+    "src": "src/fonts/cinzel/cinzel-latin.woff2"
+  },
+  "src/fonts/open-sans/open-sans-latin-ext.woff2": {
+    "file": "assets/fonts/open-sans-latin-ext-DPNHYqvY.woff2",
+    "src": "src/fonts/open-sans/open-sans-latin-ext.woff2"
+  },
+  "src/fonts/open-sans/open-sans-latin.woff2": {
+    "file": "assets/fonts/open-sans-latin-CWNzRldh.woff2",
+    "src": "src/fonts/open-sans/open-sans-latin.woff2"
+  },
+  "src/fonts/oswald/oswald-latin-ext.woff2": {
+    "file": "assets/fonts/oswald-latin-ext-Dj_1K-Kw.woff2",
+    "src": "src/fonts/oswald/oswald-latin-ext.woff2"
+  },
+  "src/fonts/oswald/oswald-latin.woff2": {
+    "file": "assets/fonts/oswald-latin-CzS3kehr.woff2",
+    "src": "src/fonts/oswald/oswald-latin.woff2"
+  },
+  "src/js/admin/gutenberg-editor/main.js": {
+    "file": "assets/js/scripts-admin-gutenberg-editor.min.js",
+    "name": "gutenbergEditor",
+    "src": "src/js/admin/gutenberg-editor/main.js",
+    "isEntry": true,
+    "css": [
+      "assets/css/style-admin-gutenberg-editor.min.css"
+    ]
+  },
+  "src/js/admin/main.js": {
+    "file": "assets/js/scripts-admin.min.js",
+    "name": "admin",
+    "src": "src/js/admin/main.js",
+    "isEntry": true,
+    "css": [
+      "assets/css/style-admin.min.css"
+    ]
+  },
+  "src/js/components/back-button.js": {
+    "file": "assets/js/back-button-iupOWkoF.min.js",
+    "name": "back-button",
+    "src": "src/js/components/back-button.js",
+    "isDynamicEntry": true
+  },
+  "src/js/components/contacts-map.js": {
+    "file": "assets/js/contacts-map-CgHlZvZk.min.js",
+    "name": "contacts-map",
+    "src": "src/js/components/contacts-map.js",
+    "isDynamicEntry": true
+  },
+  "src/js/components/our-team.js": {
+    "file": "assets/js/our-team-By0yXUf-.min.js",
+    "name": "our-team",
+    "src": "src/js/components/our-team.js",
+    "isDynamicEntry": true
+  },
+  "src/js/components/our-videos.js": {
+    "file": "assets/js/our-videos-CReJEOIB.min.js",
+    "name": "our-videos",
+    "src": "src/js/components/our-videos.js",
+    "isDynamicEntry": true
+  },
+  "src/js/components/playlist.js": {
+    "file": "assets/js/playlist-o9cL8wb3.min.js",
+    "name": "playlist",
+    "src": "src/js/components/playlist.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_splide.min-BZlm7KbS.min.js"
+    ]
+  },
+  "src/js/components/program-banner.js": {
+    "file": "assets/js/program-banner-B0TwbFeS.min.js",
+    "name": "program-banner",
+    "src": "src/js/components/program-banner.js",
+    "isDynamicEntry": true
+  },
+  "src/js/components/statistics.js": {
+    "file": "assets/js/statistics-CpoYKTPv.min.js",
+    "name": "statistics",
+    "src": "src/js/components/statistics.js",
+    "isDynamicEntry": true
+  },
+  "src/js/components/tabs.js": {
+    "file": "assets/js/tabs-CSSXbUYD.min.js",
+    "name": "tabs",
+    "src": "src/js/components/tabs.js",
+    "isDynamicEntry": true
+  },
+  "src/js/components/video-section.js": {
+    "file": "assets/js/video-section-BF231tND.min.js",
+    "name": "video-section",
+    "src": "src/js/components/video-section.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_splide.min-BZlm7KbS.min.js"
+    ]
+  },
+  "src/js/main.js": {
+    "file": "assets/js/scripts.min.js",
+    "name": "frontend",
+    "src": "src/js/main.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "src/js/components/back-button.js",
+      "src/js/components/contacts-map.js",
+      "src/js/components/our-team.js",
+      "src/js/components/our-videos.js",
+      "src/js/components/playlist.js",
+      "src/js/components/program-banner.js",
+      "src/js/components/statistics.js",
+      "src/js/components/tabs.js",
+      "src/js/components/video-section.js",
+      "src/js/pages/page-template-donate.js"
+    ],
+    "css": [
+      "assets/css/style.min.css"
+    ],
+    "assets": [
+      "assets/fonts/cinzel-latin-ext-CG36JvV6.woff2",
+      "assets/fonts/cinzel-latin-DMUuCU8H.woff2",
+      "assets/fonts/oswald-latin-ext-Dj_1K-Kw.woff2",
+      "assets/fonts/oswald-latin-CzS3kehr.woff2",
+      "assets/fonts/open-sans-latin-ext-DPNHYqvY.woff2",
+      "assets/fonts/open-sans-latin-CWNzRldh.woff2"
+    ]
+  },
+  "src/js/pages/page-template-donate.js": {
+    "file": "assets/js/page-template-donate-DAkfb4Dl.min.js",
+    "name": "page-template-donate",
+    "src": "src/js/pages/page-template-donate.js",
+    "isDynamicEntry": true
+  },
+  "src/sass/clampify-adapter/give/baseFormDesignCss.css": {
+    "file": "assets/css/give-base-form-design-lz8eAb6x.min.css",
+    "src": "src/sass/clampify-adapter/give/baseFormDesignCss.css",
+    "isEntry": true,
+    "name": "src/sass/clampify-adapter/give/baseFormDesignCss.css",
+    "names": [
+      "src/sass/clampify-adapter/give/baseFormDesignCss.css"
+    ]
+  },
+  "src/sass/components/about-company.scss": {
+    "file": "assets/css/about-company-Coe0TxTB.min.css",
+    "src": "src/sass/components/about-company.scss"
+  },
+  "src/sass/components/back-button.scss": {
+    "file": "assets/css/back-button-CnCCGWXT.min.css",
+    "src": "src/sass/components/back-button.scss"
+  },
+  "src/sass/components/contacts-info.scss": {
+    "file": "assets/css/contacts-info-BGFsuqne.min.css",
+    "src": "src/sass/components/contacts-info.scss"
+  },
+  "src/sass/components/contacts-map.scss": {
+    "file": "assets/css/contacts-map-zfBk930K.min.css",
+    "src": "src/sass/components/contacts-map.scss"
+  },
+  "src/sass/components/experience.scss": {
+    "file": "assets/css/experience-BxLl5A_W.min.css",
+    "src": "src/sass/components/experience.scss"
+  },
+  "src/sass/components/features.scss": {
+    "file": "assets/css/features-Bu_6qePD.min.css",
+    "src": "src/sass/components/features.scss"
+  },
+  "src/sass/components/hero-banner-donate.scss": {
+    "file": "assets/css/hero-banner-donate-DdkMvfvT.min.css",
+    "src": "src/sass/components/hero-banner-donate.scss"
+  },
+  "src/sass/components/hero-banner-one.scss": {
+    "file": "assets/css/hero-banner-one-CMFGQBkz.min.css",
+    "src": "src/sass/components/hero-banner-one.scss"
+  },
+  "src/sass/components/map-image.scss": {
+    "file": "assets/css/map-image-CjfLvESO.min.css",
+    "src": "src/sass/components/map-image.scss"
+  },
+  "src/sass/components/member-card.scss": {
+    "file": "assets/css/member-card-jqQIJjAG.min.css",
+    "src": "src/sass/components/member-card.scss"
+  },
+  "src/sass/components/our-team.scss": {
+    "file": "assets/css/our-team-DVoeCNxC.min.css",
+    "src": "src/sass/components/our-team.scss"
+  },
+  "src/sass/components/our-videos.scss": {
+    "file": "assets/css/our-videos-D5mdwpxL.min.css",
+    "src": "src/sass/components/our-videos.scss"
+  },
+  "src/sass/components/playlist.scss": {
+    "file": "assets/css/playlist-EpD-_f74.min.css",
+    "src": "src/sass/components/playlist.scss"
+  },
+  "src/sass/components/playlists.scss": {
+    "file": "assets/css/playlists-BPL6hNWM.min.css",
+    "src": "src/sass/components/playlists.scss"
+  },
+  "src/sass/components/program-banner.scss": {
+    "file": "assets/css/program-banner-DIUFlTFD.min.css",
+    "src": "src/sass/components/program-banner.scss"
+  },
+  "src/sass/components/statistics.scss": {
+    "file": "assets/css/statistics-BUbPWHka.min.css",
+    "src": "src/sass/components/statistics.scss"
+  },
+  "src/sass/components/title-image.scss": {
+    "file": "assets/css/title-image-C0DIvnMU.min.css",
+    "src": "src/sass/components/title-image.scss"
+  },
+  "src/sass/components/video-section.scss": {
+    "file": "assets/css/video-section-ECy1bJKl.min.css",
+    "src": "src/sass/components/video-section.scss"
+  },
+  "src/sass/components/video-tutorial.scss": {
+    "file": "assets/css/video-tutorial-D2EQ5nSI.min.css",
+    "src": "src/sass/components/video-tutorial.scss"
+  },
+  "src/sass/pages/about-us.scss": {
+    "file": "assets/css/about-us-4NCj9b2h.min.css",
+    "src": "src/sass/pages/about-us.scss"
+  },
+  "src/sass/pages/archive.scss": {
+    "file": "assets/css/archive-DKieo_tk.min.css",
+    "src": "src/sass/pages/archive.scss"
+  },
+  "src/sass/pages/contacts.scss": {
+    "file": "assets/css/contacts-Ci2NPpFB.min.css",
+    "src": "src/sass/pages/contacts.scss"
+  },
+  "src/sass/pages/donate.scss": {
+    "file": "assets/css/donate-BTuGG-gM.min.css",
+    "src": "src/sass/pages/donate.scss"
+  },
+  "src/sass/pages/error404.scss": {
+    "file": "assets/css/error404-twI_6iDb.min.css",
+    "src": "src/sass/pages/error404.scss"
+  },
+  "src/sass/pages/homepage.scss": {
+    "file": "assets/css/homepage-DqkXCC6d.min.css",
+    "src": "src/sass/pages/homepage.scss"
+  },
+  "src/sass/pages/page-template-default.scss": {
+    "file": "assets/css/page-template-default-DfkOrUfS.min.css",
+    "src": "src/sass/pages/page-template-default.scss"
+  },
+  "src/sass/pages/single.scss": {
+    "file": "assets/css/single-Bu6wOt-j.min.css",
+    "src": "src/sass/pages/single.scss"
+  },
+  "src/sass/pages/videos-program.scss": {
+    "file": "assets/css/videos-program-DfgJeyqU.min.css",
+    "src": "src/sass/pages/videos-program.scss"
+  },
+  "src/sass/pages/videos-single.scss": {
+    "file": "assets/css/videos-single-BVh0lL4G.min.css",
+    "src": "src/sass/pages/videos-single.scss"
+  },
+  "src/sass/pages/videos.scss": {
+    "file": "assets/css/videos-8kjmcLz2.min.css",
+    "src": "src/sass/pages/videos.scss"
+  },
+  "src/sass/pages/watch-live.scss": {
+    "file": "assets/css/watch-live-1pXHw5DG.min.css",
+    "src": "src/sass/pages/watch-live.scss"
+  },
+  "virtual:critical-template/about-us": {
+    "file": "assets/js/critical/about-us/scripts.min.js",
+    "name": "critical-template-about-us",
+    "src": "virtual:critical-template/about-us",
+    "isEntry": true,
+    "css": [
+      "assets/css/critical/about-us/style.min.css"
+    ]
+  },
+  "virtual:critical-template/archive": {
+    "file": "assets/js/critical/archive/scripts.min.js",
+    "name": "critical-template-archive",
+    "src": "virtual:critical-template/archive",
+    "isEntry": true,
+    "css": [
+      "assets/css/critical/archive/style.min.css"
+    ]
+  },
+  "virtual:critical-template/contacts": {
+    "file": "assets/js/critical/contacts/scripts.min.js",
+    "name": "critical-template-contacts",
+    "src": "virtual:critical-template/contacts",
+    "isEntry": true,
+    "css": [
+      "assets/css/critical/contacts/style.min.css"
+    ]
+  },
+  "virtual:critical-template/donate": {
+    "file": "assets/js/critical/donate/scripts.min.js",
+    "name": "critical-template-donate",
+    "src": "virtual:critical-template/donate",
+    "isEntry": true,
+    "css": [
+      "assets/css/critical/donate/style.min.css"
+    ]
+  },
+  "virtual:critical-template/homepage": {
+    "file": "assets/js/critical/homepage/scripts.min.js",
+    "name": "critical-template-homepage",
+    "src": "virtual:critical-template/homepage",
+    "isEntry": true,
+    "css": [
+      "assets/css/critical/homepage/style.min.css"
+    ]
+  },
+  "virtual:critical-template/page": {
+    "file": "assets/js/critical/page/scripts.min.js",
+    "name": "critical-template-page",
+    "src": "virtual:critical-template/page",
+    "isEntry": true,
+    "css": [
+      "assets/css/critical/page/style.min.css"
+    ]
+  },
+  "virtual:critical-template/single": {
+    "file": "assets/js/critical/single/scripts.min.js",
+    "name": "critical-template-single",
+    "src": "virtual:critical-template/single",
+    "isEntry": true,
+    "css": [
+      "assets/css/critical/single/style.min.css"
+    ]
+  },
+  "virtual:critical-template/videos": {
+    "file": "assets/js/critical/videos/scripts.min.js",
+    "name": "critical-template-videos",
+    "src": "virtual:critical-template/videos",
+    "isEntry": true,
+    "imports": [
+      "_splide.min-BZlm7KbS.min.js"
+    ],
+    "css": [
+      "assets/css/critical/videos/style.min.css"
+    ]
+  },
+  "virtual:critical-template/videos-program": {
+    "file": "assets/js/critical/videos-program/scripts.min.js",
+    "name": "critical-template-videos-program",
+    "src": "virtual:critical-template/videos-program",
+    "isEntry": true,
+    "css": [
+      "assets/css/critical/videos-program/style.min.css"
+    ]
+  },
+  "virtual:critical-template/videos-single": {
+    "file": "assets/js/critical/videos-single/scripts.min.js",
+    "name": "critical-template-videos-single",
+    "src": "virtual:critical-template/videos-single",
+    "isEntry": true,
+    "css": [
+      "assets/css/critical/videos-single/style.min.css"
+    ]
+  },
+  "virtual:critical-template/watch-live": {
+    "file": "assets/js/critical/watch-live/scripts.min.js",
+    "name": "critical-template-watch-live",
+    "src": "virtual:critical-template/watch-live",
+    "isEntry": true,
+    "css": [
+      "assets/css/critical/watch-live/style.min.css"
+    ]
+  }
+}
